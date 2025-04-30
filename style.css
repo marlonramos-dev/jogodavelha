@@ -1,28 +1,28 @@
-body {
-	padding: 2rem;
-	font-family: -apple-system, BlinkMacSystemFont, "Arial", sans-serif;
+corpo {
+	preenchimento : 2rem ;
+	família de fontes : -apple-system, BlinkMacSystemFont, "Arial" , sem serifa;
 }
 
 h1 {
-	font-size: 16px;
-	margin-top: 0;
+	tamanho da fonte : 16px ;
+	margem superior : 0 ;
 }
 
 p {
-	color: rgb(107, 114, 128);
-	font-size: 15px;
-	margin-bottom: 10px;
-	margin-top: 5px;
+	cor : rgb ( 107 , 114 , 128 );
+	tamanho da fonte : 15px ;
+	margem inferior : 10px ;
+	margem superior : 5px ;
 }
 
-.card {
-	max-width: 620px;
-	margin: 0 auto;
-	padding: 16px;
-	border: 1px solid lightgray;
-	border-radius: 16px;
+.cartão {
+	largura máxima : 620px ;
+	margem : 0 auto;
+	preenchimento : 16px ;
+	borda : 1px cinza claro sólido;
+	raio da borda : 16px ;
 }
 
-.card p:last-child {
-	margin-bottom: 0;
+.card  p :último-filho {
+	margem inferior : 0 ;
 }
